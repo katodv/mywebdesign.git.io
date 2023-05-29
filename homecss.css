@@ -13,10 +13,6 @@
       
   }
 
-h1 {
-    font-family: 'Arial', sans-serif;
- }
-
   body {
     height: 100vh;
     background-color: rgb(255, 255, 240); 
@@ -89,7 +85,6 @@ h1 {
   
     .hero h1 {
       font-size: 72pt;
-      font-family: "Arial";
     }
   
     .hero p {
